@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "PICK Integrates Choice Knowledge"
+  author: "Michael Schulte-Mecklenbeck"
+  date: date()
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

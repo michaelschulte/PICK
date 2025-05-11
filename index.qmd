@@ -1,0 +1,238 @@
+# Preface {.unnumbered}
+
+## Outline
+
+### Preface
+- Purpose and audience
+- How to use this book
+- Interactive elements and exercises
+- Acknowledgments
+
+### Part I: Foundations of Decision Making
+
+#### Chapter 1: The Science of Decision Making
+- The evolution of decision theory
+- Rational choice and its limitations
+- Introduction to behavioral economics
+- The impact of psychology on economic models
+- Interactive element: Decision self-assessment quiz
+
+#### Chapter 2: How the Mind Decides
+- Dual-process theory explained
+- System 1: Intuitive and automatic thinking
+- System 2: Deliberative and controlled thinking
+- Cognitive resources and mental effort
+- Interactive element: System 1 vs. System 2 demonstrations
+
+#### Chapter 3: From Values to Choices
+- Preference construction vs. preference revelation
+- Utility theory and its assumptions
+- Subjective value and reference points
+- Cultural influences on preferences
+- Interactive element: Personal values mapping exercise
+
+### Part II: Biases and Heuristics
+
+#### Chapter 4: Mental Shortcuts
+- The adaptive value of heuristics
+- Availability heuristic in daily life
+- Representativeness and pattern recognition
+- Affect heuristic and emotional decision making
+- Interactive element: Heuristic identification tool
+
+#### Chapter 5: Judgment Under Uncertainty
+- Probability assessment and miscalibration
+- Overconfidence and its three types
+- Anchoring effects in estimation
+- Base rate neglect and statistical reasoning
+- Interactive element: Calibration training exercises
+
+#### Chapter 6: The Psychology of Risk
+- Risk perception vs. objective risk
+- Loss aversion and prospect theory
+- Risk attitudes across domains
+- Probability weighting functions
+- Interactive element: Personal risk attitude assessment
+
+#### Chapter 7: Time and Decision Making
+- Temporal discounting explained
+- Present bias and self-control
+- Planning fallacy and time management
+- Strategies for intertemporal choice
+- Interactive element: Discount rate calculator
+
+### Part III: Social Dimensions of Decision Making
+
+#### Chapter 8: The Social Decision Maker
+- Social influence mechanisms
+- Conformity and informational cascades
+- Social learning and imitation
+- Reputation and signaling effects
+- Interactive element: Social pressure simulation
+
+#### Chapter 9: Group Decision Processes
+- Wisdom and madness of crowds
+- Group polarization and groupthink
+- Group decision-making structures
+- Techniques for effective team decisions
+- Interactive element: Virtual group decision exercise
+
+#### Chapter 10: Cultural Factors in Decision Making
+- Cross-cultural variations in decision biases
+- Individualism vs. collectivism
+- Analytic vs. holistic thinking styles
+- Cultural framing of risk and time
+- Interactive element: Cultural decision style assessment
+
+### Part IV: Improving Decisions
+
+#### Chapter 11: Choice Architecture
+- The ethics and philosophy of nudging
+- Default options and their power
+- Choice simplification techniques
+- Information presentation strategies
+- Interactive element: Choice architecture design tool
+
+#### Chapter 12: Debiasing Techniques
+- Cognitive debiasing strategies
+- Implementation intentions
+- Pre-commitment devices
+- Decision hygiene practices
+- Interactive element: Personal debiasing checklist
+
+#### Chapter 13: Decision Tools and Frameworks
+- Structured decision processes
+- Decision trees and expected value
+- Bayesian updating in practice
+- Multi-attribute utility analysis
+- Interactive element: Interactive decision tree builder
+
+#### Chapter 14: Habits and Routines
+- The neuroscience of habit formation
+- Designing effective habit loops
+- Breaking unwanted habits
+- Environment design for behavior change
+- Interactive element: Habit tracking template
+
+### Part V: Applications
+
+#### Chapter 15: Financial Decision Making
+- Behavioral finance principles
+- Investment biases and pitfalls
+- Consumer financial behavior
+- Saving and retirement decisions
+- Interactive element: Financial decision audit
+
+#### Chapter 16: Health Decisions
+- Medical decision making
+- Health behavior change models
+- Risk communication in healthcare
+- Patient and physician biases
+- Interactive element: Health decision framework
+
+#### Chapter 17: Managerial Decision Making
+- Strategic vs. operational decisions
+- People analytics for managers
+- Decision making under pressure
+- Creating decision-friendly organizations
+- Interactive element: Management decision simulation
+
+#### Chapter 18: Policy and Behavioral Insights
+- Evidence-based policymaking
+- Behaviorally informed regulation
+- Ethical considerations in public nudging
+- Testing and evaluation frameworks
+- Interactive element: Policy intervention design workshop
+
+### Part VI: Frontiers of Decision Science
+
+#### Chapter 19: Technology and Decision Making
+- AI-assisted decision processes
+- Algorithm aversion and appreciation
+- Human-AI collaborative decision making
+- Digital choice architecture
+- Interactive element: AI decision aid evaluation
+
+#### Chapter 20: The Future of Decision Science
+- Emerging research directions
+- Neuroeconomics and decision neuroscience
+- Ecological rationality
+- Personalized decision support
+- Interactive element: Research agenda builder
+
+### Appendices
+
+#### Appendix A: Research Methods in Behavioral Science
+- Experimental approaches
+- Field studies and natural experiments
+- Surveys and psychometric measures
+- Big data and behavioral analytics
+- Ethical considerations in behavioral research
+
+#### Appendix B: Statistical Concepts for Decision Science
+- Probability fundamentals
+- Expected value and expected utility
+- Bayesian reasoning
+- Regression analysis basics
+- Effect sizes and practical significance
+
+#### Appendix C: R and Python Code for Decision Analysis
+- Data visualization for decision problems
+- Analyzing choice data
+- Building simple decision models
+- Simulating decision outcomes
+- Behavioral intervention analysis
+
+#### Appendix D: Exercise Solutions
+- Solutions and explanations for chapter exercises
+- Extended examples and case analyses
+- Additional practice problems
+
+### Glossary
+- Key terms and concepts
+- Cross-referenced with chapters
+
+### References
+- Comprehensive bibliography
+- Recommended further reading
+
+## Interactive Features
+
+### Code Integration
+- R and Python code chunks
+- Interactive visualizations using Shiny/Observable
+- Downloadable datasets for exercises
+
+### Learning Components
+- End-of-chapter quizzes
+- Interactive decision scenarios
+- Downloadable worksheets and templates
+- Web-based simulations and tools
+
+### Community Elements
+- Comment functionality (if platform allows)
+- Contribution guidelines for examples and exercises
+- Issue tracking and suggestions via GitHub
+
+## Technical Implementation Notes
+
+### Quarto Project Structure
+- One directory per book part
+- Separate .qmd files for each chapter
+- Shared _common.R for common functions
+- Custom CSS for styling
+- YAML configuration for output formats
+
+### Computational Requirements
+- Core R packages: tidyverse, rmarkdown, knitr, bookdown
+- Visualization: ggplot2, plotly, viridis
+- Interactive elements: shiny, learnr
+- Statistical analysis: lme4, brms (optional for advanced content)
+- Python integration via reticulate (for Python examples)
+
+### Output Formats
+- HTML book (primary format)
+- PDF version (for downloading)
+- EPUB (for e-readers)
+- Individual chapter downloads
+```
