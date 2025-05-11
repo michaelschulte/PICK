@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PICK Integrates Choice Knowledge",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#outline",
+    "href": "index.html#outline",
+    "title": "PICK Integrates Choice Knowledge",
+    "section": "Outline",
+    "text": "Outline\n\nPreface\n\nPurpose and audience\nHow to use this book\nInteractive elements and exercises\nAcknowledgments\n\n\n\nPart I: Foundations of Decision Making\n\nChapter 1: The Science of Decision Making\n\nThe evolution of decision theory\nRational choice and its limitations\nIntroduction to behavioral economics\nThe impact of psychology on economic models\nInteractive element: Decision self-assessment quiz\n\n\n\nChapter 2: How the Mind Decides\n\nDual-process theory explained\nSystem 1: Intuitive and automatic thinking\nSystem 2: Deliberative and controlled thinking\nCognitive resources and mental effort\nInteractive element: System 1 vs. System 2 demonstrations\n\n\n\nChapter 3: From Values to Choices\n\nPreference construction vs. preference revelation\nUtility theory and its assumptions\nSubjective value and reference points\nCultural influences on preferences\nInteractive element: Personal values mapping exercise\n\n\n\n\nPart II: Biases and Heuristics\n\nChapter 4: Mental Shortcuts\n\nThe adaptive value of heuristics\nAvailability heuristic in daily life\nRepresentativeness and pattern recognition\nAffect heuristic and emotional decision making\nInteractive element: Heuristic identification tool\n\n\n\nChapter 5: Judgment Under Uncertainty\n\nProbability assessment and miscalibration\nOverconfidence and its three types\nAnchoring effects in estimation\nBase rate neglect and statistical reasoning\nInteractive element: Calibration training exercises\n\n\n\nChapter 6: The Psychology of Risk\n\nRisk perception vs. objective risk\nLoss aversion and prospect theory\nRisk attitudes across domains\nProbability weighting functions\nInteractive element: Personal risk attitude assessment\n\n\n\nChapter 7: Time and Decision Making\n\nTemporal discounting explained\nPresent bias and self-control\nPlanning fallacy and time management\nStrategies for intertemporal choice\nInteractive element: Discount rate calculator\n\n\n\n\nPart III: Social Dimensions of Decision Making\n\nChapter 8: The Social Decision Maker\n\nSocial influence mechanisms\nConformity and informational cascades\nSocial learning and imitation\nReputation and signaling effects\nInteractive element: Social pressure simulation\n\n\n\nChapter 9: Group Decision Processes\n\nWisdom and madness of crowds\nGroup polarization and groupthink\nGroup decision-making structures\nTechniques for effective team decisions\nInteractive element: Virtual group decision exercise\n\n\n\nChapter 10: Cultural Factors in Decision Making\n\nCross-cultural variations in decision biases\nIndividualism vs. collectivism\nAnalytic vs. holistic thinking styles\nCultural framing of risk and time\nInteractive element: Cultural decision style assessment\n\n\n\n\nPart IV: Improving Decisions\n\nChapter 11: Choice Architecture\n\nThe ethics and philosophy of nudging\nDefault options and their power\nChoice simplification techniques\nInformation presentation strategies\nInteractive element: Choice architecture design tool\n\n\n\nChapter 12: Debiasing Techniques\n\nCognitive debiasing strategies\nImplementation intentions\nPre-commitment devices\nDecision hygiene practices\nInteractive element: Personal debiasing checklist\n\n\n\nChapter 13: Decision Tools and Frameworks\n\nStructured decision processes\nDecision trees and expected value\nBayesian updating in practice\nMulti-attribute utility analysis\nInteractive element: Interactive decision tree builder\n\n\n\nChapter 14: Habits and Routines\n\nThe neuroscience of habit formation\nDesigning effective habit loops\nBreaking unwanted habits\nEnvironment design for behavior change\nInteractive element: Habit tracking template\n\n\n\n\nPart V: Applications\n\nChapter 15: Financial Decision Making\n\nBehavioral finance principles\nInvestment biases and pitfalls\nConsumer financial behavior\nSaving and retirement decisions\nInteractive element: Financial decision audit\n\n\n\nChapter 16: Health Decisions\n\nMedical decision making\nHealth behavior change models\nRisk communication in healthcare\nPatient and physician biases\nInteractive element: Health decision framework\n\n\n\nChapter 17: Managerial Decision Making\n\nStrategic vs. operational decisions\nPeople analytics for managers\nDecision making under pressure\nCreating decision-friendly organizations\nInteractive element: Management decision simulation\n\n\n\nChapter 18: Policy and Behavioral Insights\n\nEvidence-based policymaking\nBehaviorally informed regulation\nEthical considerations in public nudging\nTesting and evaluation frameworks\nInteractive element: Policy intervention design workshop\n\n\n\n\nPart VI: Frontiers of Decision Science\n\nChapter 19: Technology and Decision Making\n\nAI-assisted decision processes\nAlgorithm aversion and appreciation\nHuman-AI collaborative decision making\nDigital choice architecture\nInteractive element: AI decision aid evaluation\n\n\n\nChapter 20: The Future of Decision Science\n\nEmerging research directions\nNeuroeconomics and decision neuroscience\nEcological rationality\nPersonalized decision support\nInteractive element: Research agenda builder\n\n\n\n\nAppendices\n\nAppendix A: Research Methods in Behavioral Science\n\nExperimental approaches\nField studies and natural experiments\nSurveys and psychometric measures\nBig data and behavioral analytics\nEthical considerations in behavioral research\n\n\n\nAppendix B: Statistical Concepts for Decision Science\n\nProbability fundamentals\nExpected value and expected utility\nBayesian reasoning\nRegression analysis basics\nEffect sizes and practical significance\n\n\n\nAppendix C: R and Python Code for Decision Analysis\n\nData visualization for decision problems\nAnalyzing choice data\nBuilding simple decision models\nSimulating decision outcomes\nBehavioral intervention analysis\n\n\n\nAppendix D: Exercise Solutions\n\nSolutions and explanations for chapter exercises\nExtended examples and case analyses\nAdditional practice problems\n\n\n\n\nGlossary\n\nKey terms and concepts\nCross-referenced with chapters\n\n\n\nReferences\n\nComprehensive bibliography\nRecommended further reading",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#interactive-features",
+    "href": "index.html#interactive-features",
+    "title": "PICK Integrates Choice Knowledge",
+    "section": "Interactive Features",
+    "text": "Interactive Features\n\nCode Integration\n\nR and Python code chunks\nInteractive visualizations using Shiny/Observable\nDownloadable datasets for exercises\n\n\n\nLearning Components\n\nEnd-of-chapter quizzes\nInteractive decision scenarios\nDownloadable worksheets and templates\nWeb-based simulations and tools\n\n\n\nCommunity Elements\n\nComment functionality (if platform allows)\nContribution guidelines for examples and exercises\nIssue tracking and suggestions via GitHub",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#technical-implementation-notes",
+    "href": "index.html#technical-implementation-notes",
+    "title": "PICK Integrates Choice Knowledge",
+    "section": "Technical Implementation Notes",
+    "text": "Technical Implementation Notes\n\nQuarto Project Structure\n\nOne directory per book part\nSeparate .qmd files for each chapter\nShared _common.R for common functions\nCustom CSS for styling\nYAML configuration for output formats\n\n\n\nComputational Requirements\n\nCore R packages: tidyverse, rmarkdown, knitr, bookdown\nVisualization: ggplot2, plotly, viridis\nInteractive elements: shiny, learnr\nStatistical analysis: lme4, brms (optional for advanced content)\nPython integration via reticulate (for Python examples)\n\n\n\nOutput Formats\n\nHTML book (primary format)\nPDF version (for downloading)\nEPUB (for e-readers)\nIndividual chapter downloads ```",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
